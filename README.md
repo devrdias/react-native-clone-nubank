@@ -21,4 +21,4 @@ Built based on solution proposed by Rocketseat.com.br
 <hr>
 
 ## Demo
-![](/demo/nubank.gif)
+![React Native Animation in Action](https://github.com/devrdias/react-native-clone-nubank/blob/master/src/demo/nubank.gif)
