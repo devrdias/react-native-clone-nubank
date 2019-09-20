@@ -17,7 +17,8 @@ Built based on solution proposed by Rocketseat.com.br
     react-native-vector-icons: ^6.5.0
     react-navigation: ^3.11.0
     styled-components: ^4.3.1
-  ```
+```
+<hr>
 
 ## Demo
-![](demo/nubank.gif)
+![](/demo/nubank.gif)
